@@ -1,12 +1,12 @@
 # Zhiyin-Ashley-Zhang
 Zhiyin Zhang - profile
 
-# Hi, I’m ** Zhiyin(Ashley) Zhang**
+Hi, I’m Zhiyin(Ashley) Zhang. I am a future asset analyst with quantitative insights to support investment decisions.
 
 🎓 Education
-**Social Policy in economic track | University ofPennsylvania**  
-**Computer Science | Northern Arizona University** 
-**Applied Linguistic | Wuhan University**
+- Social Policy in economic track | University ofPennsylvania  
+- Computer Science | Northern Arizona University
+- Applied Linguistic | Wuhan University
  
 
 💼 Professional Interests
@@ -17,8 +17,8 @@ Zhiyin Zhang - profile
 
 
 🌍 Career Focus
-I am passionate about leveraging analytics and quantitative methods to evaluate investments, optimize risk-return profiles, and support strategic fund research.  
-Currently exploring opportunities in Hong Kong / Singapore / US buy-side firms, multi-asset teams, and quantitative research roles.
+- Asset/risk management 
+- Currently exploring opportunities in Hong Kong / Singapore / US buy-side firms
 
 
 🔗 Let’s Connect
